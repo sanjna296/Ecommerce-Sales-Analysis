@@ -1,0 +1,304 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,City,Region,Quantity,Unit_Price,Discount_Percent,Sales,Profit,Payment_Mode,Order_Status
+ORD0001,2025-01-01,CUST0075,Customer_088,Moisturizer,Beauty,Hyderabad,South,5.0,4153.66,10,18691.47,1308.31,Net Banking,Returned
+ORD0002,2025-01-02,CUST0021,Customer_033,Bottle,Home & Kitchen,Pune,West,2.0,18133.37,5,34453.4,2975.57,COD,Completed
+ORD0003,2025-01-03,CUST0060,Customer_080,Yoga Mat,Sports,Kolkata,East,3.0,15412.77,5,43926.39,2606.29,Debit Card,Returned
+ORD0004,2025-01-04,CUST0018,Customer_004,Shampoo,Beauty,Kolkata,East,5.0,15306.36,20,61225.44,8577.67,UPI,Returned
+ORD0005,2025-01-05,CUST0060,Customer_071,T-Shirt,Clothing,Chandigarh,North,2.0,2712.5,15,4611.25,452.85,COD,Cancelled
+ORD0006,2025-01-07,CUST0054,Customer_004,Chair,Home & Kitchen,Delhi,North,2.0,16664.3,5,31662.17,4275.38,Net Banking,Completed
+ORD0007,2025-01-08,CUST0040,Customer_085,Jeans,Clothing,Agra,North,4.0,15068.13,15,51231.64,3025.0,Net Banking,Completed
+ORD0008,2025-01-09,CUST0029,Customer_015,Cricket Bat,Sports,Hyderabad,South,1.0,7239.08,15,6153.22,647.32,Net Banking,Completed
+ORD0009,2025-01-10,CUST0008,Customer_035,Headphones,Electronics,Bengaluru,South,1.0,5208.28,10,4687.45,420.79,Debit Card,Completed
+ORD0010,2025-01-11,CUST0034,Customer_033,Cookware Set,Home & Kitchen,Mumbai,West,2.0,3161.97,0,6323.94,1104.54,Net Banking,Completed
+ORD0011,2025-01-13,CUST0003,Customer_001,Shampoo,Beauty,Hyderabad,South,3.0,11963.71,20,28712.9,7015.78,Net Banking,Completed
+ORD0012,2025-01-14,CUST0052,Customer_096,Cookware Set,Home & Kitchen,Kolkata,East,2.0,11151.61,10,20072.9,1129.82,COD,Cancelled
+ORD0013,2025-01-15,CUST0045,Customer_062,Running Shoes,Sports,,West,3.0,17461.19,15,44526.03,10505.45,UPI,Cancelled
+ORD0014,2025-01-16,CUST0097,Customer_001,Shampoo,Beauty,Jaipur,West,2.0,3315.57,0,6631.14,753.3,UPI,Completed
+ORD0015,2025-01-18,CUST0037,Customer_097,Mouse,Electronics,Jaipur,West,1.0,7828.1,10,7045.29,940.42,Debit Card,Completed
+ORD0016,2025-01-19,CUST0012,Customer_039,Shampoo,Beauty,Hyderabad,South,1.0,10274.75,0,10274.75,1035.52,Credit Card,Completed
+ORD0017,2025-01-20,CUST0054,Customer_087,Headphones,Electronics,Mumbai,West,1.0,6889.49,5,6545.02,985.26,Net Banking,Completed
+ORD0018,2025-01-21,CUST0056,Customer_017,Smartphone,Electronics,Lucknow,North,5.0,12389.48,15,52655.29,3484.24,Net Banking,Returned
+ORD0019,2025-01-22,CUST0093,Customer_003,Jacket,Clothing,Pune,West,1.0,4022.72,10,3620.45,316.08,COD,Returned
+ORD0020,2025-01-24,CUST0071,Customer_052,Lamp,Home & Kitchen,Jaipur,West,2.0,12948.7,10,23307.66,2790.7,UPI,Completed
+ORD0021,2025-01-25,CUST0031,Customer_094,T-Shirt,Clothing,Hyderabad,South,3.0,8724.34,0,26173.02,2403.06,Credit Card,Completed
+ORD0022,2025-01-26,CUST0012,Customer_069,Face Wash,Beauty,Chandigarh,North,4.0,13382.37,5,50853.01,12675.15,Net Banking,Completed
+ORD0023,2025-01-27,CUST0054,Customer_033,Keyboard,Electronics,Kolkata,East,3.0,18231.11,10,49224.0,10891.54,COD,Completed
+ORD0024,2025-01-29,CUST0093,Customer_018,Smartwatch,Electronics,Hyderabad,South,4.0,14642.96,0,58571.84,10701.1,Credit Card,Completed
+ORD0025,2025-01-30,CUST0008,Customer_007,Chair,Home & Kitchen,Kolkata,East,1.0,746.46,20,597.17,51.22,Debit Card,Completed
+ORD0026,2025-01-31,CUST0021,Customer_030,Mouse,Electronics,Lucknow,North,3.0,22333.55,10,60300.58,8253.88,UPI,Returned
+ORD0027,2025-02-01,CUST0049,Customer_017,Smartwatch,Electronics,Mumbai,West,5.0,12630.08,15,53677.84,2944.94,COD,Returned
+ORD0028,2025-02-02,CUST0053,Customer_095,Football,Sports,Mumbai,West,4.0,681.78,20,2181.7,295.92,Debit Card,Returned
+ORD0029,2025-02-04,CUST0018,Customer_025,Mouse,Electronics,Jaipur,West,5.0,5015.5,0,25077.5,2843.4,Credit Card,Completed
+ORD0030,2025-02-05,CUST0017,Customer_033,Cookware Set,Home & Kitchen,Hyderabad,South,2.0,6577.84,5,12497.9,2817.96,UPI,Completed
+ORD0031,2025-02-06,CUST0007,Customer_057,Cricket Bat,Sports,Chandigarh,North,3.0,6628.31,20,15907.94,1055.0,COD,Cancelled
+ORD0032,2025-02-07,CUST0032,Customer_087,Perfume,Beauty,Delhi,North,3.0,8648.48,15,22053.62,3655.89,Debit Card,Completed
+ORD0033,2025-02-08,CUST0015,Customer_054,Jeans,Clothing,Pune,West,2.0,1053.36,15,1790.71,103.44,Debit Card,Returned
+ORD0034,2025-02-10,CUST0006,Customer_096,Running Shoes,Sports,Delhi,North,4.0,5630.78,20,18018.5,2548.77,COD,Completed
+ORD0035,2025-02-11,CUST0019,Customer_092,Perfume,Beauty,Agra,North,2.0,8277.02,0,16554.04,2148.12,Credit Card,Completed
+ORD0036,2025-02-12,CUST0001,Customer_034,Running Shoes,Sports,Chandigarh,North,1.0,17305.95,0,17305.95,1465.1,UPI,Cancelled
+ORD0037,2025-02-13,CUST0016,Customer_051,Running Shoes,Sports,Delhi,North,5.0,15409.5,10,69342.75,6902.81,Net Banking,Completed
+ORD0038,2025-02-15,CUST0085,Customer_039,Yoga Mat,Sports,Mumbai,West,4.0,4630.66,5,17596.51,3566.34,COD,Completed
+ORD0039,2025-02-16,CUST0095,Customer_010,Cricket Bat,Sports,Bengaluru,South,2.0,23743.9,15,40364.63,2383.97,Credit Card,Completed
+ORD0040,2025-02-17,CUST0032,Customer_091,Dress,Clothing,Delhi,North,5.0,4324.48,5,20541.28,1135.98,COD,Returned
+ORD0041,2025-02-18,CUST0012,Customer_067,Shoes,Clothing,Lucknow,North,1.0,11618.85,10,10456.97,2239.13,UPI,Completed
+ORD0042,2025-02-19,CUST0093,Customer_026,Dress,Clothing,Agra,North,3.0,15570.87,0,46712.61,8461.73,Credit Card,Completed
+ORD0043,2025-02-21,CUST0029,Customer_036,T-Shirt,Clothing,Lucknow,North,4.0,17414.39,5,66174.68,11632.75,UPI,Cancelled
+ORD0044,2025-02-22,CUST0036,Customer_082,Dumbbells,Sports,Kolkata,East,2.0,10759.73,10,19367.51,4805.1,UPI,Cancelled
+ORD0045,2025-02-23,CUST0084,Customer_089,Moisturizer,Beauty,Delhi,North,1.0,6184.43,0,6184.43,970.12,Net Banking,Completed
+ORD0046,2025-02-24,CUST0071,Customer_028,Chair,Home & Kitchen,Delhi,North,4.0,23975.97,10,86313.49,5891.53,COD,Completed
+ORD0047,2025-02-26,CUST0100,Customer_053,Dress,Clothing,Mumbai,West,3.0,15180.29,15,38709.74,7142.09,UPI,Cancelled
+ORD0048,2025-02-27,CUST0018,Customer_076,Cricket Bat,Sports,Chandigarh,North,2.0,11205.8,20,17929.28,2154.79,UPI,Completed
+ORD0049,2025-02-28,CUST0066,Customer_005,Dress,Clothing,Delhi,North,5.0,5797.64,0,28988.2,6214.26,Net Banking,Cancelled
+ORD0050,2025-03-01,CUST0089,Customer_045,Bottle,Home & Kitchen,Hyderabad,South,1.0,22044.89,0,22044.89,5278.64,COD,Returned
+ORD0051,2025-03-02,CUST0019,Customer_039,Moisturizer,Beauty,Lucknow,North,4.0,14092.58,10,50733.29,5060.38,Debit Card,Cancelled
+ORD0052,2025-03-04,CUST0039,Customer_001,Dumbbells,Sports,Agra,North,2.0,18602.05,20,29763.28,6385.95,Debit Card,Cancelled
+ORD0053,2025-03-05,CUST0006,Customer_058,Perfume,Beauty,Kolkata,East,1.0,2347.42,0,2347.42,222.35,COD,Cancelled
+ORD0054,2025-03-06,CUST0020,Customer_057,Running Shoes,Sports,Mumbai,West,3.0,23002.16,15,58655.51,9430.1,Credit Card,Completed
+ORD0055,2025-03-07,CUST0074,Customer_096,Mouse,Electronics,Delhi,North,3.0,22558.6,0,67675.8,15771.9,COD,Returned
+ORD0056,2025-03-08,CUST0028,Customer_092,Cricket Bat,Sports,Hyderabad,South,4.0,16277.15,5,61853.17,5930.42,Net Banking,Completed
+ORD0057,2025-03-10,CUST0029,Customer_013,Face Wash,Beauty,Pune,West,1.0,7945.33,15,6753.53,1151.86,Debit Card,Cancelled
+ORD0058,2025-03-11,CUST0005,Customer_033,Dress,Clothing,Lucknow,North,1.0,10630.6,5,10099.07,1619.06,,Completed
+ORD0059,2025-03-12,CUST0033,Customer_098,Smartphone,Electronics,Mumbai,West,1.0,24256.89,10,21831.2,3576.31,UPI,Completed
+ORD0060,2025-03-13,CUST0053,Customer_023,Smartwatch,Electronics,Mumbai,West,1.0,13498.35,20,10798.68,2692.41,Net Banking,Cancelled
+ORD0061,2025-03-15,CUST0051,Customer_045,Cricket Bat,Sports,Chandigarh,North,3.0,6409.5,0,19228.5,1458.13,Net Banking,Returned
+ORD0062,2025-03-16,CUST0054,Customer_003,Smartphone,Electronics,Delhi,North,4.0,6936.21,5,26357.6,3943.97,Debit Card,Completed
+ORD0063,2025-03-17,CUST0047,Customer_023,Perfume,Beauty,Delhi,North,5.0,2483.68,10,11176.56,1460.74,Net Banking,Cancelled
+ORD0064,2025-03-18,CUST0079,Customer_091,Shoes,Clothing,Lucknow,North,2.0,8959.51,5,17023.07,3018.68,Debit Card,Completed
+ORD0065,2025-03-19,CUST0005,Customer_029,Face Wash,Beauty,Kolkata,East,4.0,7659.6,5,29106.48,6475.4,COD,Completed
+ORD0066,2025-03-21,CUST0053,Customer_066,Headphones,Electronics,Chandigarh,North,4.0,1936.03,20,6195.3,1524.08,Net Banking,Completed
+ORD0067,2025-03-22,CUST0056,Customer_025,Mixer,Home & Kitchen,Lucknow,North,3.0,3729.03,15,9509.03,821.35,Debit Card,Completed
+ORD0068,2025-03-23,CUST0092,Customer_042,Bottle,Home & Kitchen,Agra,North,2.0,5829.07,20,9326.51,781.44,Net Banking,Cancelled
+ORD0069,2025-03-24,CUST0090,Customer_045,Headphones,Electronics,Mumbai,West,4.0,5396.44,5,20506.47,1553.36,Debit Card,Completed
+ORD0070,2025-03-26,CUST0036,Customer_001,T-Shirt,Clothing,Kolkata,East,3.0,23045.55,20,55309.32,2794.17,UPI,Completed
+ORD0071,2025-03-27,CUST0014,Customer_059,Cricket Bat,Sports,Jaipur,West,4.0,9412.17,5,35766.25,7135.16,Debit Card,Completed
+ORD0072,2025-03-28,CUST0028,Customer_074,Cookware Set,Home & Kitchen,Agra,North,3.0,10109.95,0,30329.85,5989.57,UPI,Completed
+ORD0073,2025-03-29,CUST0018,Customer_100,T-Shirt,Clothing,Kolkata,East,5.0,14961.73,15,63587.35,7695.4,Credit Card,Completed
+ORD0074,2025-03-30,CUST0098,Customer_059,Lipstick,Beauty,Lucknow,North,1.0,8634.94,15,7339.7,1315.15,Debit Card,Cancelled
+ORD0075,2025-04-01,CUST0062,Customer_062,Yoga Mat,Sports,Kolkata,East,5.0,2814.03,15,11959.63,2633.07,UPI,Completed
+ORD0076,2025-04-02,CUST0075,Customer_004,Bottle,Home & Kitchen,Hyderabad,South,4.0,24932.21,5,94742.4,15651.41,UPI,Completed
+ORD0077,2025-04-03,CUST0026,Customer_068,Keyboard,Electronics,Agra,North,2.0,7215.48,15,12266.32,1116.43,Debit Card,Returned
+ORD0078,2025-04-04,CUST0038,Customer_037,Headphones,Electronics,Jaipur,West,4.0,3136.47,5,11918.59,2426.1,Debit Card,Returned
+ORD0079,2025-04-05,CUST0044,Customer_002,Yoga Mat,Sports,Lucknow,North,2.0,11520.42,20,18432.67,1155.27,Net Banking,Completed
+ORD0080,2025-04-07,CUST0038,Customer_035,Moisturizer,Beauty,Delhi,North,1.0,19077.63,10,17169.87,2483.33,UPI,Cancelled
+ORD0081,2025-04-08,CUST0001,Customer_040,Moisturizer,Beauty,Agra,North,3.0,23477.01,15,59866.38,7533.93,COD,Cancelled
+ORD0082,2025-04-09,CUST0083,Customer_078,Bottle,Home & Kitchen,Kolkata,East,4.0,4342.3,20,13895.36,1212.8,Credit Card,Returned
+ORD0083,2025-04-10,CUST0097,Customer_023,Headphones,Electronics,Chandigarh,North,2.0,20470.01,10,36846.02,6441.43,UPI,Completed
+ORD0084,2025-04-12,CUST0070,Customer_006,Smartphone,Electronics,Delhi,North,5.0,22689.86,10,102104.37,16190.68,Debit Card,Completed
+ORD0085,2025-04-13,CUST0038,Customer_057,Dress,Clothing,Jaipur,West,1.0,13476.49,10,12128.84,2519.4,UPI,Cancelled
+ORD0086,2025-04-14,CUST0074,Customer_097,Yoga Mat,Sports,Bengaluru,South,4.0,14376.28,5,54629.86,8128.72,Net Banking,Returned
+ORD0087,2025-04-15,CUST0076,Customer_045,Dumbbells,Sports,Hyderabad,South,5.0,13634.56,20,54538.24,5227.51,Credit Card,Completed
+ORD0088,2025-04-16,CUST0011,Customer_074,Chair,Home & Kitchen,Lucknow,North,4.0,17989.62,10,64762.63,7715.77,Credit Card,Completed
+ORD0089,2025-04-18,CUST0100,Customer_068,Moisturizer,Beauty,Chandigarh,North,2.0,15402.92,15,26184.96,4414.59,Net Banking,Cancelled
+ORD0090,2025-04-19,CUST0040,Customer_041,Shoes,Clothing,Delhi,North,2.0,2002.36,10,3604.25,711.08,Debit Card,Completed
+ORD0091,2025-04-20,CUST0054,Customer_055,Cricket Bat,Sports,Mumbai,West,4.0,3379.17,0,13516.68,1573.74,Debit Card,Cancelled
+ORD0092,2025-04-21,CUST0035,Customer_063,Headphones,Electronics,Mumbai,West,2.0,20130.48,20,32208.77,5499.46,COD,Completed
+ORD0093,2025-04-23,CUST0043,Customer_059,Jeans,Clothing,Pune,West,2.0,12176.67,10,21918.01,3078.24,COD,Completed
+ORD0094,2025-04-24,CUST0063,Customer_022,Mixer,Home & Kitchen,Pune,West,4.0,10647.46,0,42589.84,5216.35,Credit Card,Returned
+ORD0095,2025-04-25,CUST0086,Customer_092,T-Shirt,Clothing,Mumbai,West,1.0,24038.44,0,24038.44,3881.27,Net Banking,Completed
+ORD0096,2025-04-26,CUST0093,Customer_030,Keyboard,Electronics,Bengaluru,South,3.0,20054.62,20,48131.09,8422.71,Debit Card,Completed
+ORD0097,2025-04-27,CUST0038,Customer_051,Smartphone,Electronics,Lucknow,North,2.0,13501.06,0,27002.12,3514.4,COD,Completed
+ORD0098,2025-04-29,CUST0087,Customer_055,Football,Sports,Bengaluru,South,2.0,6987.39,5,13276.04,1749.08,COD,Completed
+ORD0099,2025-04-30,CUST0072,Customer_054,Yoga Mat,Sports,Hyderabad,South,1.0,5782.71,10,5204.44,786.4,UPI,Cancelled
+ORD0100,2025-05-01,CUST0088,Customer_078,Mixer,Home & Kitchen,Lucknow,North,4.0,6183.11,5,23495.82,4959.1,Debit Card,Returned
+ORD0101,2025-05-02,CUST0019,Customer_019,Moisturizer,Beauty,Mumbai,West,2.0,621.15,0,1242.3,113.77,COD,Cancelled
+ORD0102,2025-05-03,CUST0002,Customer_067,,Beauty,Agra,North,1.0,20490.86,15,17417.23,2040.83,COD,Returned
+ORD0103,2025-05-05,CUST0086,Customer_024,Yoga Mat,Sports,Mumbai,West,2.0,21568.38,10,38823.08,9305.53,UPI,Completed
+ORD0104,2025-05-06,CUST0025,Customer_073,Mixer,Home & Kitchen,Bengaluru,South,2.0,854.99,0,1709.98,270.74,Debit Card,Returned
+ORD0105,2025-05-07,CUST0018,Customer_085,Dress,Clothing,Chandigarh,North,5.0,17373.18,20,69492.72,3730.24,Credit Card,Returned
+ORD0106,2025-05-08,CUST0086,Customer_085,Smartphone,Electronics,Pune,West,1.0,10309.63,5,9794.15,1900.46,Debit Card,Completed
+ORD0107,2025-05-10,CUST0045,Customer_017,Cookware Set,Home & Kitchen,Hyderabad,South,4.0,15937.52,20,51000.06,4338.79,Credit Card,Cancelled
+ORD0108,2025-05-11,CUST0036,Customer_026,Lipstick,Beauty,Chandigarh,North,4.0,23978.09,0,95912.36,6383.9,Net Banking,Cancelled
+ORD0109,2025-05-12,CUST0055,Customer_024,Lamp,Home & Kitchen,Hyderabad,South,4.0,18060.43,10,65017.55,15595.2,Net Banking,Completed
+ORD0110,2025-05-13,CUST0098,Customer_073,Shoes,Clothing,Jaipur,West,3.0,14998.42,10,40495.73,8879.97,Credit Card,Completed
+ORD0111,2025-05-14,CUST0042,Customer_025,Yoga Mat,Sports,Kolkata,East,1.0,10496.0,20,8396.8,1575.92,Debit Card,Completed
+ORD0112,2025-05-16,CUST0044,Customer_059,Shoes,Clothing,Mumbai,West,4.0,24202.17,5,91968.25,6494.68,Debit Card,Completed
+ORD0113,2025-05-17,CUST0088,Customer_083,Cricket Bat,Sports,Delhi,North,1.0,11316.34,15,9618.89,1523.44,Net Banking,Completed
+ORD0114,2025-05-18,CUST0026,Customer_047,Yoga Mat,Sports,Pune,West,2.0,12388.8,10,22299.84,5519.96,Credit Card,Completed
+ORD0115,2025-05-19,CUST0059,Customer_087,Jeans,Clothing,Mumbai,West,5.0,18356.28,10,82603.26,19401.79,Net Banking,Completed
+ORD0116,2025-05-21,CUST0024,Customer_099,Shampoo,Beauty,Bengaluru,South,2.0,13204.13,0,26408.26,4754.37,COD,Returned
+ORD0117,2025-05-22,CUST0039,Customer_015,Football,Sports,Agra,North,5.0,13397.55,5,63638.36,12406.51,UPI,Returned
+ORD0118,2025-05-23,CUST0066,Customer_055,Yoga Mat,Sports,Pune,West,5.0,15759.52,20,63038.08,10916.47,Debit Card,Completed
+ORD0119,2025-05-24,CUST0046,Customer_029,Dress,Clothing,Bengaluru,South,5.0,9783.91,10,44027.6,2818.03,UPI,Cancelled
+ORD0120,2025-05-25,CUST0084,Customer_005,Dumbbells,Sports,Kolkata,East,1.0,19276.35,0,19276.35,2260.62,UPI,Completed
+ORD0121,2025-05-27,CUST0065,Customer_053,Cookware Set,Home & Kitchen,Hyderabad,South,4.0,17974.17,20,57517.34,3360.08,UPI,Completed
+ORD0122,2025-05-28,CUST0043,Customer_070,Smartwatch,Electronics,Hyderabad,South,4.0,23923.47,20,76555.1,15867.5,Debit Card,Cancelled
+ORD0123,2025-05-29,CUST0054,Customer_074,Shoes,Clothing,Kolkata,East,4.0,6022.29,15,20475.79,4454.82,Debit Card,Completed
+ORD0124,2025-05-30,CUST0047,Customer_087,Headphones,Electronics,Chandigarh,North,1.0,23944.58,20,19155.66,1179.39,UPI,Completed
+ORD0125,2025-05-31,CUST0082,Customer_062,Cookware Set,Home & Kitchen,Jaipur,West,1.0,4595.21,5,4365.45,668.13,UPI,Completed
+ORD0126,2025-06-02,CUST0098,Customer_011,Bottle,Home & Kitchen,Pune,West,5.0,13563.27,0,67816.35,15528.88,UPI,Completed
+ORD0127,2025-06-03,CUST0040,Customer_025,Lamp,Home & Kitchen,Kolkata,East,1.0,21349.18,5,20281.72,4297.76,Net Banking,Completed
+ORD0128,2025-06-04,CUST0037,Customer_060,Chair,Home & Kitchen,Agra,North,3.0,18168.48,5,51780.17,8104.66,Net Banking,Returned
+ORD0129,2025-06-05,CUST0067,Customer_056,Cricket Bat,Sports,Delhi,North,5.0,12170.49,20,48681.96,11260.27,Credit Card,Completed
+ORD0130,2025-06-07,CUST0013,Customer_045,Football,Sports,Delhi,North,4.0,21309.37,10,76713.73,6296.66,UPI,Cancelled
+ORD0131,2025-06-08,CUST0031,Customer_023,Jacket,Clothing,Jaipur,West,4.0,4217.55,10,15183.18,3678.32,Credit Card,Completed
+ORD0132,2025-06-09,CUST0039,Customer_066,Cookware Set,Home & Kitchen,Mumbai,West,4.0,14037.69,20,44920.61,6805.18,Net Banking,Completed
+ORD0133,2025-06-10,CUST0070,Customer_083,Headphones,Electronics,Kolkata,East,2.0,15959.94,20,25535.9,5259.61,Credit Card,Completed
+ORD0134,2025-06-11,CUST0091,Customer_064,Dress,Clothing,Mumbai,West,4.0,4591.71,15,15611.81,992.4,UPI,Returned
+ORD0135,2025-06-13,CUST0064,Customer_047,Headphones,Electronics,Chandigarh,North,2.0,2144.95,5,4075.4,914.14,Net Banking,Returned
+ORD0136,2025-06-14,CUST0006,Customer_079,Perfume,Beauty,Lucknow,North,5.0,9775.22,20,39100.88,2128.05,Debit Card,Completed
+ORD0137,2025-06-15,CUST0099,Customer_013,Jeans,Clothing,Bengaluru,South,2.0,7058.58,20,11293.73,2697.63,UPI,Cancelled
+ORD0138,2025-06-16,CUST0056,Customer_092,Cricket Bat,Sports,Jaipur,West,4.0,16466.43,10,59279.15,13255.46,Net Banking,Cancelled
+ORD0139,2025-06-18,CUST0038,Customer_015,Football,Sports,Jaipur,West,1.0,11224.78,10,10102.3,1332.16,Credit Card,Cancelled
+ORD0140,2025-06-19,CUST0072,Customer_060,Mixer,Home & Kitchen,Delhi,North,4.0,14199.93,15,48279.76,6983.28,UPI,Completed
+ORD0141,2025-06-20,CUST0044,Customer_053,Football,Sports,Mumbai,West,2.0,19097.29,10,34375.12,7196.76,COD,Completed
+ORD0142,2025-06-21,CUST0038,Customer_048,Mixer,Home & Kitchen,Jaipur,West,1.0,15300.47,15,13005.4,1769.53,UPI,Returned
+ORD0143,2025-06-22,CUST0018,Customer_094,Cricket Bat,Sports,Mumbai,West,3.0,24613.48,0,73840.44,3863.64,Credit Card,Completed
+ORD0144,2025-06-24,CUST0088,Customer_041,Yoga Mat,Sports,Kolkata,East,4.0,19562.32,10,70424.35,10289.1,UPI,Returned
+ORD0145,2025-06-25,CUST0002,Customer_097,Smartwatch,Electronics,Pune,West,4.0,8846.61,5,33617.12,3875.79,UPI,Completed
+ORD0146,2025-06-26,CUST0090,Customer_046,Running Shoes,Sports,Delhi,North,,9137.69,5,34723.22,8524.32,Credit Card,Completed
+ORD0147,2025-06-27,CUST0006,Customer_009,Shoes,Clothing,Chandigarh,North,1.0,23803.28,20,19042.62,3642.76,UPI,Completed
+ORD0148,2025-06-28,CUST0075,Customer_084,Jeans,Clothing,Hyderabad,South,4.0,20102.68,10,72369.65,10629.63,COD,Completed
+ORD0149,2025-06-30,CUST0012,Customer_087,T-Shirt,Clothing,Lucknow,North,4.0,18370.26,10,66132.94,12893.63,COD,Cancelled
+ORD0150,2025-07-01,CUST0093,Customer_053,Smartphone,Electronics,Lucknow,North,3.0,24403.87,15,62229.87,12374.77,Debit Card,Returned
+ORD0151,2025-07-02,CUST0028,Customer_074,Jeans,Clothing,Pune,West,3.0,5942.83,0,17828.49,2650.3,Debit Card,Completed
+ORD0152,2025-07-03,CUST0061,Customer_024,Yoga Mat,Sports,Pune,West,4.0,4602.58,20,14728.26,2878.4,COD,Cancelled
+ORD0153,2025-07-05,CUST0098,Customer_100,Perfume,Beauty,Jaipur,West,2.0,21715.68,0,43431.36,5981.5,Credit Card,Completed
+ORD0154,2025-07-06,CUST0018,Customer_040,Lipstick,Beauty,Pune,West,3.0,14931.05,20,35834.52,3301.52,Net Banking,Completed
+ORD0155,2025-07-07,CUST0069,Customer_038,Chair,Home & Kitchen,Chandigarh,North,2.0,6167.32,5,11717.91,1010.03,Net Banking,Completed
+ORD0156,2025-07-08,CUST0028,Customer_066,Face Wash,Beauty,Hyderabad,South,4.0,14945.89,0,59783.56,7665.23,Debit Card,Cancelled
+ORD0157,2025-07-09,CUST0014,Customer_080,Dumbbells,Sports,Delhi,North,4.0,24254.58,10,87316.49,19798.31,Credit Card,Cancelled
+ORD0158,2025-07-11,CUST0057,Customer_064,T-Shirt,Clothing,Kolkata,East,5.0,6443.24,10,28994.58,6950.48,COD,Returned
+ORD0159,2025-07-12,CUST0056,Customer_028,Mouse,Electronics,Mumbai,West,4.0,12023.38,0,48093.52,9189.57,COD,Completed
+ORD0160,2025-07-13,CUST0029,Customer_001,Cricket Bat,Sports,Jaipur,West,2.0,3337.38,20,5339.81,1267.25,Debit Card,Cancelled
+ORD0161,2025-07-14,CUST0053,Customer_088,Yoga Mat,Sports,Mumbai,West,1.0,14741.37,15,12530.16,998.26,Debit Card,Completed
+ORD0162,2025-07-16,CUST0044,Customer_038,Jeans,Clothing,Kolkata,East,5.0,21737.58,10,97819.11,14454.66,COD,Cancelled
+ORD0163,2025-07-17,CUST0008,Customer_029,Lipstick,Beauty,Agra,North,4.0,16933.78,5,64348.36,5641.41,Net Banking,Completed
+ORD0164,2025-07-18,CUST0026,Customer_008,Smartphone,Electronics,Bengaluru,South,3.0,17176.23,5,48952.26,4837.93,UPI,Returned
+ORD0165,2025-07-19,CUST0014,Customer_053,Mixer,Home & Kitchen,Hyderabad,South,4.0,17009.88,10,61235.57,14584.79,Net Banking,Completed
+ORD0166,2025-07-20,CUST0073,Customer_077,Jeans,Clothing,Agra,North,1.0,21701.04,0,21701.04,4864.3,UPI,Completed
+ORD0167,2025-07-22,CUST0023,Customer_083,Moisturizer,Beauty,Agra,North,4.0,16789.56,5,63800.33,12916.83,Net Banking,Completed
+ORD0168,2025-07-23,CUST0015,Customer_021,Headphones,Electronics,Hyderabad,South,5.0,8317.27,15,35348.4,6078.74,Debit Card,Returned
+ORD0169,2025-07-24,CUST0090,Customer_011,Yoga Mat,Sports,Kolkata,East,1.0,13778.47,10,12400.62,1183.69,Debit Card,Completed
+ORD0170,2025-07-25,CUST0093,Customer_026,Jacket,Clothing,Kolkata,East,5.0,21624.34,5,102715.61,14979.67,UPI,Returned
+ORD0171,2025-07-26,CUST0070,Customer_046,Running Shoes,Sports,Agra,North,4.0,12074.38,10,43467.77,8822.94,Credit Card,Returned
+ORD0172,2025-07-28,CUST0051,Customer_015,Lamp,Home & Kitchen,Mumbai,West,5.0,22481.35,0,112406.75,20338.72,COD,Cancelled
+ORD0173,2025-07-29,CUST0052,Customer_027,Football,Sports,Pune,West,2.0,4408.39,15,7494.26,759.58,Net Banking,Returned
+ORD0174,2025-07-30,CUST0004,Customer_090,Cookware Set,Home & Kitchen,Hyderabad,South,4.0,18025.6,5,68497.28,7159.66,UPI,Completed
+ORD0175,2025-07-31,CUST0084,Customer_068,Moisturizer,Beauty,Chandigarh,North,1.0,14312.61,5,13596.98,3175.58,UPI,Returned
+ORD0176,2025-08-02,CUST0009,Customer_026,Football,Sports,Chandigarh,North,5.0,15159.81,20,60639.24,13755.48,UPI,Completed
+ORD0177,2025-08-03,CUST0037,Customer_068,Dress,Clothing,Kolkata,East,2.0,22530.57,0,45061.14,4387.79,Credit Card,Completed
+ORD0178,2025-08-04,CUST0055,Customer_069,Lipstick,Beauty,Bengaluru,South,1.0,2659.72,15,2260.76,180.73,UPI,Completed
+ORD0179,2025-08-05,CUST0092,Customer_071,Face Wash,Beauty,Agra,North,5.0,2664.15,20,10656.6,1901.08,Debit Card,Completed
+ORD0180,2025-08-06,CUST0042,Customer_039,Headphones,Electronics,Kolkata,East,2.0,7081.14,20,11329.82,2097.92,UPI,Completed
+ORD0181,2025-08-08,CUST0036,Customer_097,Chair,Home & Kitchen,Bengaluru,South,3.0,15199.52,5,43318.63,10011.15,COD,Completed
+ORD0182,2025-08-09,CUST0060,Customer_002,Headphones,Electronics,Hyderabad,South,3.0,8785.94,15,22404.15,3102.57,COD,Cancelled
+ORD0183,2025-08-10,CUST0086,Customer_070,Lipstick,Beauty,Mumbai,West,3.0,13464.06,20,32313.74,4568.25,Credit Card,Returned
+ORD0184,2025-08-11,CUST0044,Customer_058,T-Shirt,Clothing,Pune,West,3.0,18347.07,15,46785.03,2902.0,COD,Cancelled
+ORD0185,2025-08-13,CUST0012,Customer_008,Cricket Bat,Sports,Kolkata,East,1.0,20598.62,15,17508.83,2092.56,COD,Completed
+ORD0186,2025-08-14,CUST0065,Customer_030,Dumbbells,Sports,Bengaluru,South,3.0,4064.68,20,9755.23,1926.03,Net Banking,Returned
+ORD0187,2025-08-15,CUST0014,Customer_036,T-Shirt,Clothing,Hyderabad,South,5.0,20703.87,15,87991.45,16872.27,UPI,Completed
+ORD0188,2025-08-16,CUST0075,Customer_067,Yoga Mat,Sports,Agra,North,5.0,8854.15,0,44270.75,7116.99,COD,Completed
+ORD0189,2025-08-17,CUST0012,Customer_049,Shampoo,Beauty,Agra,North,3.0,14492.31,15,36955.39,8140.72,Credit Card,Completed
+ORD0190,2025-08-19,CUST0015,Customer_021,Cricket Bat,Sports,Lucknow,North,3.0,19813.75,15,50525.06,10799.58,Debit Card,Completed
+ORD0191,2025-08-20,CUST0025,Customer_066,Lamp,Home & Kitchen,Agra,North,2.0,23945.88,5,45497.17,8107.34,UPI,Cancelled
+ORD0192,2025-08-21,CUST0025,Customer_013,Headphones,Electronics,Jaipur,West,5.0,8143.03,10,36643.64,4753.87,Net Banking,Completed
+ORD0193,2025-08-22,CUST0032,Customer_096,Dumbbells,Sports,Agra,North,1.0,6044.02,20,4835.22,773.18,COD,Cancelled
+ORD0194,2025-08-23,CUST0002,Customer_060,Moisturizer,Beauty,Agra,North,4.0,21330.78,20,68258.5,3654.39,Debit Card,Completed
+ORD0195,2025-08-25,CUST0031,Customer_056,Cricket Bat,Sports,Lucknow,North,2.0,5530.36,10,9954.65,1999.4,UPI,Completed
+ORD0196,2025-08-26,CUST0016,Customer_097,Mouse,Electronics,Lucknow,North,1.0,19632.59,10,17669.33,1511.67,COD,Returned
+ORD0197,2025-08-27,CUST0050,Customer_063,Smartwatch,Electronics,Mumbai,West,4.0,4591.69,15,15611.75,2426.2,Net Banking,Returned
+ORD0198,2025-08-28,CUST0005,Customer_055,Football,Sports,Lucknow,North,4.0,12196.38,20,39028.42,4972.84,Credit Card,Completed
+ORD0199,2025-08-30,CUST0085,Customer_090,Running Shoes,Sports,Pune,West,2.0,17120.08,20,27392.13,2548.57,Credit Card,Cancelled
+ORD0200,2025-08-31,CUST0060,Customer_011,Cricket Bat,Sports,Mumbai,West,5.0,24001.54,15,102006.55,12677.55,Net Banking,Returned
+ORD0201,2025-09-01,CUST0099,Customer_093,Dumbbells,Sports,Chandigarh,North,2.0,8319.5,15,14143.15,2550.61,COD,Cancelled
+ORD0202,2025-09-02,CUST0041,Customer_001,Jeans,Clothing,Mumbai,West,5.0,3588.68,0,17943.4,3261.01,Credit Card,Returned
+ORD0203,2025-09-03,CUST0028,Customer_075,Cricket Bat,Sports,Delhi,North,2.0,1249.13,15,2123.52,437.94,Credit Card,Completed
+ORD0204,2025-09-05,CUST0008,Customer_077,Smartwatch,Electronics,Delhi,North,5.0,4009.17,15,17038.97,2597.5,UPI,Completed
+ORD0205,2025-09-06,CUST0031,Customer_100,Keyboard,Electronics,Lucknow,North,1.0,23925.58,20,19140.46,2440.77,Debit Card,Returned
+ORD0206,2025-09-07,CUST0094,Customer_096,Lamp,Home & Kitchen,Bengaluru,South,4.0,9064.58,5,34445.4,2400.13,Credit Card,Returned
+ORD0207,2025-09-08,CUST0036,Customer_068,Headphones,Electronics,Hyderabad,South,1.0,9733.91,5,9247.21,481.65,UPI,Completed
+ORD0208,2025-09-10,CUST0002,Customer_013,Smartphone,Electronics,Chandigarh,North,2.0,20028.24,15,34048.01,4932.44,Net Banking,Returned
+ORD0209,2025-09-11,CUST0078,Customer_089,T-Shirt,Clothing,Chandigarh,North,2.0,5848.01,0,11696.02,1464.33,Credit Card,Returned
+ORD0210,2025-09-12,CUST0032,Customer_094,Perfume,Beauty,Mumbai,West,3.0,22207.05,20,53296.92,5712.44,UPI,Returned
+ORD0211,2025-09-13,CUST0086,Customer_022,Mouse,Electronics,Agra,North,5.0,5760.27,15,24481.15,1487.76,Debit Card,Completed
+ORD0212,2025-09-14,CUST0095,Customer_079,Lipstick,Beauty,Agra,North,5.0,17226.86,15,73214.15,15635.4,Debit Card,Returned
+ORD0213,2025-09-16,CUST0019,Customer_023,Football,Sports,Pune,West,5.0,14881.59,10,66967.15,7333.55,Net Banking,Returned
+ORD0214,2025-09-17,CUST0003,Customer_065,Smartphone,Electronics,Mumbai,West,2.0,530.49,0,1060.98,210.44,COD,Completed
+ORD0215,2025-09-18,CUST0041,Customer_013,Jacket,Clothing,Agra,North,1.0,14010.6,10,12609.54,1104.66,UPI,Returned
+ORD0216,2025-09-19,CUST0014,Customer_034,Lipstick,Beauty,Pune,West,2.0,21047.11,15,35780.09,7125.49,Net Banking,Completed
+ORD0217,2025-09-20,CUST0010,Customer_024,Shampoo,Beauty,Lucknow,North,5.0,3380.44,20,13521.76,2415.97,Debit Card,Completed
+ORD0218,2025-09-22,CUST0045,Customer_020,Running Shoes,Sports,Pune,West,5.0,1018.06,15,4326.75,373.24,UPI,Returned
+ORD0219,2025-09-23,CUST0024,Customer_034,Running Shoes,Sports,Lucknow,North,2.0,14168.67,15,24086.74,1458.71,Credit Card,Completed
+ORD0220,2025-09-24,CUST0058,Customer_031,Face Wash,Beauty,Lucknow,North,3.0,1746.21,20,4190.9,834.76,COD,Completed
+ORD0221,2025-09-25,CUST0092,Customer_047,Yoga Mat,Sports,Jaipur,West,1.0,2488.43,15,2115.17,132.22,Debit Card,Completed
+ORD0222,2025-09-27,CUST0047,Customer_091,Moisturizer,Beauty,Pune,West,1.0,10704.83,15,9099.11,1357.89,COD,Completed
+ORD0223,2025-09-28,CUST0077,Customer_094,Mouse,Electronics,Chandigarh,North,1.0,14269.08,5,13555.63,1584.68,Net Banking,Completed
+ORD0224,2025-09-29,CUST0093,Customer_064,Bottle,Home & Kitchen,Lucknow,North,3.0,6704.63,5,19108.2,4290.67,Net Banking,Returned
+ORD0225,2025-09-30,CUST0039,Customer_035,Smartphone,Electronics,Mumbai,West,5.0,17738.67,5,84258.68,5571.21,UPI,Completed
+ORD0226,2025-10-01,CUST0024,Customer_089,Face Wash,Beauty,Pune,West,4.0,3544.33,0,14177.32,2839.36,COD,Cancelled
+ORD0227,2025-10-03,CUST0054,Customer_095,Perfume,Beauty,Chandigarh,North,3.0,7107.62,5,20256.72,2114.6,Credit Card,Completed
+ORD0228,2025-10-04,CUST0057,Customer_021,Dumbbells,Sports,Pune,West,1.0,12343.01,10,11108.71,694.63,COD,Completed
+ORD0229,2025-10-05,CUST0014,Customer_057,Smartphone,Electronics,Bengaluru,South,3.0,24095.84,20,57830.02,3495.92,Net Banking,Completed
+ORD0230,2025-10-06,CUST0019,Customer_089,Running Shoes,Sports,Agra,North,3.0,18211.35,20,43707.24,7127.17,Net Banking,Returned
+ORD0231,2025-10-08,CUST0086,Customer_033,Headphones,Electronics,Kolkata,East,2.0,18084.2,5,34359.98,2328.51,UPI,Cancelled
+ORD0232,2025-10-09,CUST0070,Customer_070,Dumbbells,Sports,Agra,North,2.0,13700.88,0,27401.76,4348.87,Credit Card,Completed
+ORD0233,2025-10-10,CUST0098,Customer_016,Dress,Clothing,Mumbai,West,2.0,16705.44,0,33410.88,6141.07,Debit Card,Cancelled
+ORD0234,2025-10-11,CUST0064,Customer_032,Perfume,Beauty,Hyderabad,South,3.0,11643.22,10,31436.69,6515.43,Net Banking,Returned
+ORD0235,2025-10-12,CUST0027,Customer_040,Shoes,Clothing,Jaipur,West,5.0,16592.85,15,70519.61,15804.55,Credit Card,Returned
+ORD0236,2025-10-14,CUST0097,Customer_042,Jeans,Clothing,Delhi,North,1.0,2625.55,10,2363.0,547.85,COD,Completed
+ORD0237,2025-10-15,CUST0011,Customer_012,Face Wash,Beauty,Bengaluru,South,3.0,9696.37,10,26180.2,3618.48,Credit Card,Returned
+ORD0238,2025-10-16,CUST0048,Customer_082,Perfume,Beauty,Kolkata,East,5.0,15974.19,0,79870.95,10318.86,Credit Card,Returned
+ORD0239,2025-10-17,CUST0027,Customer_040,Perfume,Beauty,Pune,West,2.0,8124.01,10,14623.22,1793.1,UPI,Returned
+ORD0240,2025-10-18,CUST0070,Customer_019,Mouse,Electronics,Bengaluru,South,4.0,20563.32,20,65802.62,9085.02,UPI,Returned
+ORD0241,2025-10-20,CUST0034,Customer_004,Mixer,Home & Kitchen,Bengaluru,South,5.0,24607.52,20,98430.08,19197.52,COD,Completed
+ORD0242,2025-10-21,CUST0020,Customer_034,Lamp,Home & Kitchen,Bengaluru,South,5.0,14125.97,0,70629.85,3946.29,Credit Card,Cancelled
+ORD0243,2025-10-22,CUST0011,Customer_066,Chair,Home & Kitchen,Kolkata,East,2.0,3035.49,15,5160.33,582.45,COD,Returned
+ORD0244,2025-10-23,CUST0028,Customer_090,Smartphone,Electronics,Mumbai,West,3.0,22031.6,5,62790.06,6207.93,UPI,Cancelled
+ORD0245,2025-10-25,CUST0057,Customer_023,Cookware Set,Home & Kitchen,Jaipur,West,1.0,18569.88,5,17641.39,3524.14,UPI,Cancelled
+ORD0246,2025-10-26,CUST0040,Customer_028,Face Wash,Beauty,Lucknow,North,4.0,18560.58,5,70530.2,8112.44,UPI,Returned
+ORD0247,2025-10-27,CUST0053,Customer_046,Shampoo,Beauty,Delhi,North,4.0,21699.75,20,69439.2,3932.89,COD,Returned
+ORD0248,2025-10-28,CUST0006,Customer_091,Face Wash,Beauty,Delhi,North,3.0,1759.62,5,5014.92,903.46,Debit Card,Completed
+ORD0249,2025-10-29,CUST0078,Customer_084,Shoes,Clothing,Hyderabad,South,5.0,13802.21,10,62109.94,8232.81,UPI,Completed
+ORD0250,2025-10-31,CUST0073,Customer_028,T-Shirt,Clothing,Pune,West,3.0,24327.58,10,65684.47,13188.94,COD,Cancelled
+ORD0251,2025-11-01,CUST0038,Customer_053,Headphones,Electronics,Bengaluru,South,4.0,15986.7,15,54354.78,3941.6,Net Banking,Returned
+ORD0252,2025-11-02,CUST0059,Customer_078,Headphones,Electronics,Kolkata,East,4.0,7741.25,10,27868.5,1807.22,UPI,Returned
+ORD0253,2025-11-03,CUST0055,Customer_016,Chair,Home & Kitchen,Jaipur,West,2.0,16794.78,0,33589.56,8323.68,Net Banking,Completed
+ORD0254,2025-11-05,CUST0020,Customer_067,Shampoo,Beauty,Lucknow,North,2.0,14461.73,20,23138.77,1451.45,COD,Completed
+ORD0255,2025-11-06,CUST0096,Customer_065,Running Shoes,Sports,Kolkata,East,1.0,16829.25,0,16829.25,1059.19,Net Banking,Returned
+ORD0256,2025-11-07,CUST0020,Customer_029,Shampoo,Beauty,Kolkata,East,2.0,4371.17,20,6993.87,1232.75,Debit Card,Returned
+ORD0257,2025-11-08,CUST0034,Customer_091,Perfume,Beauty,Jaipur,West,5.0,24277.93,15,103181.2,24774.45,UPI,Completed
+ORD0258,2025-11-09,CUST0083,Customer_065,Headphones,Electronics,Agra,North,5.0,11970.59,5,56860.3,13161.8,UPI,Cancelled
+ORD0259,2025-11-11,CUST0013,Customer_061,Football,Sports,Delhi,North,3.0,11352.46,15,28948.77,2645.87,UPI,Completed
+ORD0260,2025-11-12,CUST0064,Customer_062,Chair,Home & Kitchen,Jaipur,West,1.0,8669.86,20,6935.89,955.13,Credit Card,Completed
+ORD0261,2025-11-13,CUST0039,Customer_055,Mouse,Electronics,Kolkata,East,1.0,15541.54,20,12433.23,1480.11,UPI,Cancelled
+ORD0262,2025-11-14,CUST0019,Customer_076,Lamp,Home & Kitchen,Lucknow,North,5.0,23256.84,20,93027.36,11992.64,Net Banking,Cancelled
+ORD0263,2025-11-15,CUST0025,Customer_091,Running Shoes,Sports,Delhi,North,2.0,23889.99,5,45390.98,8818.5,Net Banking,Completed
+ORD0264,2025-11-17,CUST0082,Customer_019,Lipstick,Beauty,Agra,North,2.0,16732.71,0,33465.42,4726.9,COD,Returned
+ORD0265,2025-11-18,CUST0063,Customer_029,Smartwatch,Electronics,Delhi,North,2.0,8230.7,0,16461.4,3923.49,UPI,Completed
+ORD0266,2025-11-19,CUST0073,Customer_039,Jacket,Clothing,Lucknow,North,5.0,550.24,5,2613.64,203.27,COD,Completed
+ORD0267,2025-11-20,CUST0040,Customer_002,Shampoo,Beauty,Pune,West,5.0,22590.6,10,101657.7,15939.27,UPI,Completed
+ORD0268,2025-11-22,CUST0062,Customer_049,Shampoo,Beauty,Lucknow,North,1.0,2384.49,5,2265.27,525.6,UPI,Completed
+ORD0269,2025-11-23,CUST0053,Customer_030,Shampoo,Beauty,Mumbai,West,2.0,10276.28,20,16442.05,1727.67,COD,Returned
+ORD0270,2025-11-24,CUST0075,Customer_048,Jacket,Clothing,Lucknow,North,4.0,14607.88,0,58431.52,7958.2,Credit Card,Completed
+ORD0271,2025-11-25,CUST0037,Customer_007,Smartwatch,Electronics,Pune,West,4.0,17303.6,5,65753.68,5482.02,COD,Cancelled
+ORD0272,2025-11-26,CUST0035,Customer_043,Smartwatch,Electronics,Delhi,North,3.0,928.56,15,2367.83,297.83,Debit Card,Completed
+ORD0273,2025-11-28,CUST0031,Customer_004,Mouse,Electronics,Delhi,North,2.0,21090.57,15,35853.97,5806.11,UPI,Cancelled
+ORD0274,2025-11-29,CUST0046,Customer_064,Jacket,Clothing,Mumbai,West,3.0,24111.23,15,61483.64,4295.27,Debit Card,Completed
+ORD0275,2025-11-30,CUST0037,Customer_042,Lamp,Home & Kitchen,Agra,North,5.0,11625.52,5,55221.22,12701.8,COD,Cancelled
+ORD0276,2025-12-01,CUST0059,Customer_047,Chair,Home & Kitchen,Bengaluru,South,2.0,20719.67,0,41439.34,2802.97,COD,Completed
+ORD0277,2025-12-03,CUST0086,Customer_053,Dumbbells,Sports,Pune,West,5.0,4107.38,0,20536.9,3213.03,Debit Card,Completed
+ORD0278,2025-12-04,CUST0021,Customer_044,Cookware Set,Home & Kitchen,Chandigarh,North,5.0,5107.21,0,25536.05,3868.44,Debit Card,Returned
+ORD0279,2025-12-05,CUST0051,Customer_017,Chair,Home & Kitchen,Delhi,North,5.0,11267.88,5,53522.43,7909.52,Debit Card,Returned
+ORD0280,2025-12-06,CUST0005,Customer_017,T-Shirt,Clothing,Hyderabad,South,2.0,11697.7,20,18716.32,1489.76,Net Banking,Returned
+ORD0281,2025-12-07,CUST0011,Customer_092,Cookware Set,Home & Kitchen,Mumbai,West,3.0,9030.48,15,23027.72,1326.31,Net Banking,Completed
+ORD0282,2025-12-09,CUST0048,Customer_052,Lipstick,Beauty,Kolkata,East,4.0,24249.31,10,87297.52,12442.96,Credit Card,Returned
+ORD0283,2025-12-10,CUST0051,Customer_053,Lamp,Home & Kitchen,Delhi,North,3.0,22992.75,10,62080.43,10271.57,Debit Card,Completed
+ORD0284,2025-12-11,CUST0045,Customer_081,Perfume,Beauty,Lucknow,North,5.0,12069.14,0,60345.7,3735.06,UPI,Completed
+ORD0285,2025-12-12,CUST0061,Customer_031,Keyboard,Electronics,Hyderabad,South,3.0,11373.48,20,27296.35,6668.68,Credit Card,Cancelled
+ORD0286,2025-12-13,CUST0066,Customer_041,Cookware Set,Home & Kitchen,Lucknow,North,2.0,15923.84,20,25478.14,3101.79,Debit Card,Completed
+ORD0287,2025-12-15,CUST0025,Customer_037,Cookware Set,Home & Kitchen,Lucknow,North,2.0,20763.19,10,37373.74,7384.08,UPI,Cancelled
+ORD0288,2025-12-16,CUST0066,Customer_063,Running Shoes,Sports,Hyderabad,South,4.0,16565.95,0,66263.8,14523.98,UPI,Completed
+ORD0289,2025-12-17,CUST0096,Customer_034,Shampoo,Beauty,Pune,West,3.0,13863.52,15,35351.98,5847.51,Net Banking,Cancelled
+ORD0290,2025-12-18,CUST0060,Customer_066,Cookware Set,Home & Kitchen,Pune,West,1.0,12665.42,5,12032.15,1184.52,Credit Card,Completed
+ORD0291,2025-12-20,CUST0053,Customer_039,Dumbbells,Sports,Hyderabad,South,2.0,7240.81,10,13033.46,709.09,UPI,Completed
+ORD0292,2025-12-21,CUST0086,Customer_031,Mouse,Electronics,Mumbai,West,5.0,5601.31,10,25205.9,4526.06,UPI,Completed
+ORD0293,2025-12-22,CUST0053,Customer_024,Shoes,Clothing,Jaipur,West,4.0,17160.65,5,65210.47,12571.96,COD,Cancelled
+ORD0294,2025-12-23,CUST0098,Customer_075,Cookware Set,Home & Kitchen,Bengaluru,South,4.0,12568.38,5,47759.84,3666.32,UPI,Returned
+ORD0295,2025-12-24,CUST0038,Customer_081,Headphones,Electronics,Kolkata,East,2.0,19640.51,5,37316.97,3927.01,Credit Card,Completed
+ORD0296,2025-12-26,CUST0009,Customer_027,Running Shoes,Sports,Kolkata,East,4.0,2816.74,0,11266.96,856.13,Credit Card,Returned
+ORD0297,2025-12-27,CUST0056,Customer_076,Lipstick,Beauty,Jaipur,West,3.0,11015.29,0,33045.87,4146.03,Debit Card,Cancelled
+ORD0298,2025-12-28,CUST0055,Customer_010,Smartphone,Electronics,Chandigarh,North,5.0,9874.93,10,44437.19,9725.07,Net Banking,Cancelled
+ORD0299,2025-12-29,CUST0094,Customer_073,Mixer,Home & Kitchen,Mumbai,West,4.0,3501.14,15,11903.88,2267.79,Net Banking,Returned
+ORD0300,2025-12-31,CUST0028,Customer_041,Chair,Home & Kitchen,Lucknow,North,5.0,1490.19,20,5960.76,892.41,Debit Card,Completed
+ORD0021,2025-01-25,CUST0031,Customer_094,T-Shirt,Clothing,Hyderabad,South,3.0,8724.34,0,26173.02,2403.06,Credit Card,Completed
+ORD0076,2025-04-02,CUST0075,Customer_004,Bottle,Home & Kitchen,Hyderabad,South,4.0,24932.21,5,94742.4,15651.41,UPI,Completed
+ORD0151,2025-07-02,CUST0028,Customer_074,Jeans,Clothing,Pune,West,3.0,5942.83,0,17828.49,2650.3,Debit Card,Completed
