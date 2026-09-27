@@ -82,5 +82,5 @@ the available sales data.
 
 ## 👩‍💻 Author
 
-Sanjana
+Sanjna
 BSc Data Science Student
